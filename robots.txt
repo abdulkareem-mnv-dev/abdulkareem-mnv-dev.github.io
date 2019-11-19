@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://www.abdulkareem-fallaha.website/sitemap.xml
+Sitemap: http://www.abdulkareem-fallaha.me/sitemap.xml
