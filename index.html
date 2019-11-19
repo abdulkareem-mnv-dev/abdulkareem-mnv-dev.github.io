@@ -758,6 +758,9 @@
 			else
 				intervalCount++;
 		}, 250);
+    $(window).load(function() {
+      $('.page-loader').hide(1000);
+    });
 		$(function(){
 			$('.rightsYear').text(new Date().getFullYear());
 			$('.expYears').text(new Date().getFullYear() -2014);
